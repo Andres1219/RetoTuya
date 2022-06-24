@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="iniciar sesion en la aplicacion demoblaze" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-24T21:36:36" hostname="DESKTOP-TCTLI5C" time="46.852">
+  <properties/>
+  <testcase name="Registro exitoso" classname="iniciar sesion en la aplicacion demoblaze" time="26.576"/>
+  <testcase name="Agregar al carrito" classname="iniciar sesion en la aplicacion demoblaze" time="20.25"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jun 24, 2022 4:36:38 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 26517
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 24, 2022 4:36:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 24, 2022 4:37:03 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 27971
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 24, 2022 4:37:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 24, 2022 4:37:23 PM org.openqa.selenium.os.OsProcess destroy
+GRAVE: Unable to kill process java.lang.ProcessImpl@79ba0a6f
+]]></system-err>
+</testsuite>
